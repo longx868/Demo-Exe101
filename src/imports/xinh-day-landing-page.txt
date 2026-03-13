@@ -1,0 +1,150 @@
+Prompt tạo trang web trong Figma
+
+Design a modern landing page website for a beauty service platform called “XINH.DAY”.
+
+The platform connects users with beauty services such as dress rental, makeup artists, photographers, and accessories rental.
+
+Target Users
+
+Women aged 16–35 who need beauty services for events such as:
+
+Graduation
+
+Birthday
+
+Parties
+
+Photoshoots
+
+Special events
+
+They value convenience, affordable price, and stylish appearance.
+
+Website Structure
+1. Hero Section
+
+Large banner with elegant fashion / beauty visuals
+
+Headline:
+“Your All-in-One Beauty Service Platform”
+
+Subtext:
+“Find, compare and book dresses, makeup artists, and photographers in one place.”
+
+CTA buttons:
+
+Browse Services
+
+Book Now
+
+2. Services Section
+
+Display service categories in cards with icons/images:
+
+Dress Rental
+
+Accessories Rental
+
+Makeup & Hair
+
+Photographer Booking
+
+Full Beauty Combo
+
+Each card contains:
+
+Image
+
+Title
+
+Short description
+
+“View Details” button
+
+3. How It Works
+
+3-step process with icons:
+
+Search services by event, style, or budget
+
+Compare prices and reviews
+
+Book online and receive confirmation
+
+4. Featured Concepts / Combos
+
+Show packages such as:
+
+Graduation Combo
+
+Birthday Party Look
+
+Elegant Photoshoot Style
+
+Each package includes:
+
+Dress
+
+Makeup
+
+Photographer
+
+Accessories
+
+Display with price and “Book Now” button.
+
+5. Platform Features
+
+Highlight platform benefits:
+
+Online booking system
+
+Transparent pricing
+
+Chatbot consultation
+
+Review and rating system
+
+Booking management
+
+Reminder for return time
+
+Use icons and short descriptions.
+
+6. Customer Reviews
+
+Show testimonials from users with:
+
+User avatar
+
+Rating stars
+
+Short review
+
+7. Footer
+
+Include:
+
+About XINH.DAY
+
+Contact
+
+Social media links
+
+Customer support
+
+Terms & policy
+
+Design Style
+
+Modern beauty / fashion aesthetic
+
+Soft pastel colors (pink, beige, white)
+
+Elegant typography
+
+Rounded cards and soft shadows
+
+Mobile-friendly layout
+
+Clean and minimal UI
