@@ -24,7 +24,7 @@ export function Layout() {
                 <Heart className="w-5 h-5 text-white fill-white" />
               </div>
               <span className="text-xl font-semibold bg-gradient-to-r from-pink-600 to-pink-400 bg-clip-text text-transparent">
-                XINH.DAY
+                XINH-DAY
               </span>
             </Link>
 
@@ -34,11 +34,10 @@ export function Layout() {
                 <Link
                   key={item.path}
                   to={item.path}
-                  className={`transition-colors ${
-                    location.pathname === item.path
-                      ? "text-pink-600 font-medium"
-                      : "text-gray-700 hover:text-pink-600"
-                  }`}
+                  className={`transition-colors ${location.pathname === item.path
+                    ? "text-pink-600 font-medium"
+                    : "text-gray-700 hover:text-pink-600"
+                    }`}
                 >
                   {item.label}
                 </Link>
@@ -74,11 +73,10 @@ export function Layout() {
                     key={item.path}
                     to={item.path}
                     onClick={() => setMobileMenuOpen(false)}
-                    className={`transition-colors ${
-                      location.pathname === item.path
-                        ? "text-pink-600 font-medium"
-                        : "text-gray-700 hover:text-pink-600"
-                    }`}
+                    className={`transition-colors ${location.pathname === item.path
+                      ? "text-pink-600 font-medium"
+                      : "text-gray-700 hover:text-pink-600"
+                      }`}
                   >
                     {item.label}
                   </Link>
